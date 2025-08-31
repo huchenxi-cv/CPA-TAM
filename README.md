@@ -6,7 +6,7 @@ Visible-infrared person re-identification (VI-ReID) aims to match pedestrian ima
 ![image](CPA-TAM_files/Fig1.png)
 
 
-###Training and Model
+### Train and model
 
 Regarding code availability, we plan to release the source code and trained models publicly upon acceptance of the paper.
 
