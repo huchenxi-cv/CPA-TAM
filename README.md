@@ -6,10 +6,6 @@ Visible-infrared person re-identification (VI-ReID) aims to match pedestrian ima
 ![image](CPA-TAM_files/Fig1.png)
 
 
-### DataSet
-
-
-
 
 
 ### Visualization
